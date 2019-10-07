@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/public/images/courses/*
+/public/images/proyects/*
+/public/images/pdf/*
+/public/proyects/*
+/public/pdf
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
